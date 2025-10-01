@@ -1,0 +1,5 @@
+resource_group_name = "kml_rg_main-ac1a9bd842bb41df"
+location            = "westus"
+vm_name             = "dev-myUbuntuVM"
+admin_username      = "dev-azureuser"
+admin_password      = "ComplexPassword123!" 
